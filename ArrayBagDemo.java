@@ -2,6 +2,7 @@
     @author Frank M. Carrano
     @author Timothy M. Henry
     @version 4.0
+	@CIS211
 */
 public class ArrayBagDemo
 {
